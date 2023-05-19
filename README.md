@@ -1,21 +1,32 @@
 
- 
  # Hi there, I'm [Kothapalli Jayanth] 👋
+### Data Science | Machine Learning Enthusiast
+Passionate about exploring new technologies and their practical applications. Started my data science journey 6 months ago and haven't stopped since.
 
-### Data Scientist | Machine Learning Enthusiast
+🔭 Currently interning at DEEP THOUGHT as a DATA SCIENTIST, working on the JSMIES project.
 
-Passionate about exploring new technologies and leveraging data to drive meaningful insights. 
+📊 Skilled in data visualization with Matplotlib, Seaborn, Numpy, Pandas and PlotlY.
 
-🔭 Currently working on: Sight Prediction Machine Learning Project
+🧠 Focused on understanding the mathematics behind ML and DL algorithms.
 
-🌱 Learning: Deep diving into ML/DL algorithms and their mathematical foundations
+💡 Committed to building practical solutions that make a real-world impact.
 
-💡 Seeking to build practical solutions that have a real-world impact
+🌍 Seeking to connect with like-minded individuals and collaborate on data-driven projects.
 
-👯 Open to collaboration on data-driven projects
+🎯 Ultimate goal: Top-notch data scientist building AI applications to solve real-world problems.
 
-📫 How to reach me: [kothapallijayanth521@gmail.com] | [LinkedIn Profile]((https://www.linkedin.com/in/kothapalli-jayanth-786b07260/))
+📫 Let's connect! Email: Kothapallijayanth521@gmail.com | LinkedIn:https://www.linkedin.com/in/kothapalli-jayanth-786b07260/
 
-⚡ Fun fact: I love learning about the latest advancements in AI and enjoy experimenting with new libraries and frameworks.
+⚡ Fun fact: Always up for geeking out over the latest tech and discussing data science and machine learning.
+
+
+Happy coding!
+
+
+
+
+
+
+
 
 
