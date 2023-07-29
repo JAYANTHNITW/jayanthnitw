@@ -1,4 +1,4 @@
-![MasterHeaed](https://img.freepik.com/free-vector/cartoon-tech-team-people-creating-robots-lab-machine-hardware-engineering-scientist-with-computer-new-invention-flat-vector-illustration-technology-development-science-concept-banner_74855-22977.jpg?w=1380&t=st=1690624887~exp=1690625487~hmac=1648dcd456bf6fccfa9b62fc0cec9b4bc63b914c4b7a530256f9ff4353324173)](https://rishavchanda.io)
+![MasterHeaed](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
 <h2 align="center">Data science and Machine Learning Enthusiast</h2>
