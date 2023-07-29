@@ -1,7 +1,9 @@
+![MasterHeaed](https://img.freepik.com/free-vector/cartoon-tech-team-people-creating-robots-lab-machine-hardware-engineering-scientist-with-computer-new-invention-flat-vector-illustration-technology-development-science-concept-banner_74855-22977.jpg?w=1380&t=st=1690624887~exp=1690625487~hmac=1648dcd456bf6fccfa9b62fc0cec9b4bc63b914c4b7a530256f9ff4353324173)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
 <h2 align="center">Data science and Machine Learning Enthusiast</h2>
-<mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthnitw&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthnitw" /> </p>
 
