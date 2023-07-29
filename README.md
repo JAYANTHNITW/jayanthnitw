@@ -1,4 +1,4 @@
-![MasterHeaed](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)](https://rishavchanda.io)
+![MasterHeaed](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)]
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
 <h2 align="center">Data science and Machine Learning Enthusiast</h2>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **on Real world projects**
 
-- 🤝 I’m looking for help with **Connecting with GSOC Mentors(Tensorflow)**
+- 🤝 I’m looking for help with **Connecting GSOC Mentors(Tensorflow)**
 
 - 👨‍💻 My LinkedIN Profile [https://www.linkedin.com/in/kothapalli-jayanth-786b07260/](https://www.linkedin.com/in/kothapalli-jayanth-786b07260/)
 
@@ -27,14 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jayanthnitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayanthnitw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kothapalli-jayanth-786b07260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kothapalli-jayanth-786b07260/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kothapallijayanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kothapallijayanth" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kothapallijayanth521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kothapallijayanth521" height="30" width="40" /></a>
+<a href="https://twitter.com/jayanthnitw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="jayanthnitw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kothapalli-jayanth-786b07260/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="kothapalli-jayanth-786b07260/" height="30" width="40" /></a>
+<a href="https://kaggle.com/kothapallijayanth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kothapallijayanth" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kothapallijayanth521" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@kothapallijayanth521" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanthnitw&show_icons=true&locale=en&layout=compact" alt="jayanthnitw" /></p>
 
