@@ -1,4 +1,4 @@
-![MasterHeaed](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)]
+![MasterHead](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
 <h2 align="center">Data science and Machine Learning Enthusiast</h2>
