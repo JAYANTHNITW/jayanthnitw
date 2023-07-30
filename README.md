@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jayanthnitw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="jayanthnitw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kothapalli-jayanth-786b07260/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="kothapalli-jayanth-786b07260/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kothapalli-jayanth-786b07260/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="kothapalli-jayanth-786b07260/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kothapallijayanth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kothapallijayanth" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kothapallijayanth521" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@kothapallijayanth521" height="30" width="40" /></a>
 </p>
