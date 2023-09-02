@@ -17,7 +17,7 @@
 
 - 👨‍💻 My LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 
-- 📝 I regularly write articles on [https://jayanthnitw.blogspot.com/](https://jayanthnitw.blogspot.com/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kothapallijayanth521)
 
 - 💬 Ask me about **Python,Machine Learning,Deep Learning,Generative AI**
 
