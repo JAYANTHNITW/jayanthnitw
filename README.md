@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Connecting GSOC Mentors(Tensorflow)**
 
-- 👨‍💻 My LinkedIN Profile [https://www.linkedin.com/in/kothapalli-jayanth-786b07260/](https://www.linkedin.com/in/kothapalli-jayanth-786b07260/)
+- 👨‍💻 My LinkedIN Profile [https://www.linkedin.com/in/kothapalli-jayanth-786b07260/](https://www.linkedin.com/in/jayanthnitw)
 
 - 📝 I regularly write articles on [https://jayanthnitw.blogspot.com/](https://jayanthnitw.blogspot.com/)
 
 - 💬 Ask me about **Python,Machine Learning,Deep Learning,Generative AI**
 
-- 📫 How to reach me **kothapallijayanth521@gmail.com**
+- 📫 How to reach me **jayanthnitw@gmail.com**
 
 - ⚡ Fun fact **Always up for geeking out over the latest tech and discussing data science and machine learning.**
 
