@@ -1,7 +1,8 @@
-![MasterHead](https://thumbs.dreamstime.com/z/robot-humanoid-machine-next-step-evolution-d-illustration-banner-attractive-male-cyborg-using-artificial-intelligence-156817436.jpg?w=992)
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
 <h2 align="center">Data science and Machine Learning Enthusiast</h2>
+
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*DjIccrMeRWmrC_mCUOGDhw.png)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
