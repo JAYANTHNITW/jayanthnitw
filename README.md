@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthnitw&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthnitw" /> </p>
 
-- 🔭 I’m currently working on **MLOPS(Deployment)**
+- 🔭 I’m currently working on **End-to-End Projects**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Graph Neural Networks**
 
 - 👯 I’m looking to collaborate on **on Real world projects**
 
-- 🤝 I’m looking for help with **Connecting GSOC Mentors(Tensorflow)**
+- 🤝 I’m looking for guidance **To crack GSOC 2024 in ML4SCI organization**
 
 - 👨‍💻 My LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 
