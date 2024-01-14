@@ -13,6 +13,8 @@
 - 👯 I’m looking to collaborate on **on Real world projects**
 
 - 🤝 I’m looking for guidance **To crack GSOC 2024 in ML4SCI organization**
+  
+- ❤️My Youtube channel [YouTube](https://www.youtube.com/@kothapallijayanth)
 
 - 👨‍💻 My LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 
