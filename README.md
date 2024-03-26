@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **End-to-End Projects**
 
-- 🌱 I’m currently learning **Graph Neural Networks**
+- 🌱 I’m currently learning **Fine Tuning Techniques**
 
 - 👯 I’m looking to collaborate on **on Real world projects**
 
-- 🤝 I’m looking for guidance **To crack GSOC 2024 in ML4SCI organization**
+- 🤝 I’m looking for guidance **on Generative AI**
   
 - ❤️My Youtube channel [YouTube](https://www.youtube.com/@kothapallijayanth)
 
