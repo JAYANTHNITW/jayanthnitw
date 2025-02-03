@@ -1,22 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
-<h2 align="center">Data science and Machine Learning Enthusiast</h2>
+<h2 align="center">Undergraduate Researcher and aspiring AI Scientist</h2>
 
 <img align="right" alt="Coding" width="500" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthnitw&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthnitw" /> </p>
 
-- 🔭 I’m currently working on **End-to-End Projects**
+- 🔭 I’m advancing on research: **Pyscological Stress Detection using Deep Learning**
 
-- 🌱 I’m currently learning **Fine Tuning Techniques**
+- 👯 I’m looking to collaborate on **equitable healthcare & high quality education AI research work**
 
-- 👯 I’m looking to collaborate on **on Real world projects**
-
-- 🤝 I’m looking for guidance **on Generative AI**
+- 🌐 Checkout my portfolio [website](https://jayanthnitw.github.io/portfolio/)
   
-- ❤️My Youtube channel [YouTube](https://www.youtube.com/@kothapallijayanth)
+- 📺 Youtube channel [YouTube](https://www.youtube.com/@kothapallijayanth)
 
-- 👨‍💻 My LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
+- 👨‍💻 LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@kothapallijayanth521)
 
