@@ -12,7 +12,7 @@
 
 - 🌐 Checkout my portfolio [website](https://jayanthnitw.github.io/portfolio/)
   
-- 📺 Youtube channel [YouTube](https://www.youtube.com/@kothapallijayanth)
+- 📺 Youtube channel [YouTube](https://www.youtube.com/channel/UCWf559eRJWRyoPeUER2RoLQ)
 
 - 👨‍💻 LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 
