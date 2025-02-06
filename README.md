@@ -23,8 +23,8 @@ I'm passionate about leveraging AI to solve real-world problems in healthcare an
 </td>
 <td width="50%">
   <div style="position: relative;">
-    <a href="https://www.youtube.com/watch?v=BFqLXs_WUlE">
-      <img src="https://img.youtube.com/vi/BFqLXs_WUlE/maxresdefault.jpg" alt="Watch My Video" width="100%" style="border-radius: 10px">
+    <a href="https://www.youtube.com/watch?v=1vKmZRzJLHg&t=865s">
+      <img src="https://img.youtube.com/vi/1vKmZRzJLHg/maxresdefault.jpg" alt="Watch My Video" width="100%" style="border-radius: 10px">
       <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
         <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" alt="YouTube" width="100">
       </div>
