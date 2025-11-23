@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
-<h2 align="center">Undergraduate Researcher and aspiring AI Scientist</h2>
+<h2 align="center">Aspiring AI Scientist</h2>
 
 <table border="0">
 <tr>
@@ -8,17 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthnitw&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthnitw" /> </p>
 
 ### About Me 🎯
-I'm passionate about leveraging AI to solve real-world problems in healthcare and education. Currently focused on cutting-edge research in psychological stress detection using deep learning techniques.
-
-- 🔭 I'm advancing research on: **Psychological Stress Detection using Deep Learning**
-- 👯 I'm looking to collaborate on **equitable healthcare & high quality education AI research work**
+I'm passionate about leveraging AI to solve real-world problems.
+  
 - 🌐 Checkout my portfolio [website](https://jayanthnitw.github.io/portfolio/)
 - 📺 Youtube channel [YouTube](https://www.youtube.com/channel/UCWf559eRJWRyoPeUER2RoLQ)
 - 👨‍💻 LinkedIN Profile [Linkedin](https://www.linkedin.com/in/jayanthnitw)
 - 📝 I regularly write articles on [Medium](https://medium.com/@kothapallijayanth521)
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Generative AI**
 - 📫 How to reach me **jayanthnitw@gmail.com**
-- ⚡ Fun fact **Always up for geeking out over the latest tech and discussing data science and machine learning.**
+- ⚡ Fun fact **Always up for geeking out over the latest tech and discussing data science, machine learning and GEN AI.**
 
 </td>
 <td width="50%">
