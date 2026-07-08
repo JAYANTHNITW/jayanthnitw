@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kothapalli Jayanth</h1>
-<h2 align="center">Aspiring AI Scientist</h2>
+ 
 
 <table border="0">
 <tr>
